@@ -19,7 +19,7 @@ O programa solicita ao usuário que insira o nome, idade e escolha a classe do h
 3. Execute o script usando o Node.js.
 
 ```bash
-script.js
+node script.js
 ```
 
 4. Siga as instruções para inserir as informações do seu herói e observe a batalha épica que se desenrola!
